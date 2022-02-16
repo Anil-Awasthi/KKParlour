@@ -1,0 +1,13 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: pink;
+  border:3px solid Tomato;
+  background-color: green;
+  padding: 10px;
+  margin: 10px;
+}
+p {
+  color: black;
+}
